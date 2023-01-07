@@ -89,7 +89,7 @@ td {
                     <td>".$row['Destination']."</td>
                     <td>".$row['airline']."</td>
                     <td>".$row['Seats']."</td>
-                    <td>$ ".$row['Price']."</td>
+                    <td>Rs. ".$row['Price']."</td>
                     <td>
                     <form action='all_flights.php' method='post'>
                       <input name='flight_id' type='hidden' value=".$row['flight_id'].">

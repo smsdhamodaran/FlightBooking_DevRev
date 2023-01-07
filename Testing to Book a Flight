@@ -5,3 +5,37 @@ Password : Sms@1234
 
 2. Next Search for Flights.
 
+One-Way
+
+From : Chennai
+To   : Coimbatore
+Depart : 06/01/2023
+Class : Economy
+Passenger : 1
+
+3. Book a flight
+
+Select the listed flight and then click the buy symbol.
+It would ask for First Name, Middle Name, Last Name, Contact Information and DOB.
+
+Date of Birth must be before the year 1999.
+
+Database : 
+First Name : Dhamodaran
+Middle Name : Sundara
+Last Name : Malaisamy
+Contact Info : 9489727171
+DOB : 01/01/1999
+
+4. Payment Information
+
+Enter 16 Digit Card Number, MM/YY Expiration Date and 3 Digit CVV randomly.
+
+Example :
+
+Card No : 4377486921086346
+Exp : 10/26 
+CVV : 123
+
+5. Ticket is booked, you can view it in My Flights.
+

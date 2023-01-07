@@ -1,4 +1,6 @@
-# FlightBooking DevRev
+# ProGrad Talent Solutions - Collaborate with DevRev
+
+# Flight Booking WebApp by Dhamodaran.S.M
 
 I used XAMPP for the servers and SQL connection for the webapp.
 

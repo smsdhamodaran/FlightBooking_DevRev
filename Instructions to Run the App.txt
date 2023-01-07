@@ -23,9 +23,3 @@ Open the browser and type http://localhost/FlightBooking_DevRev/
 
 Step 6.
 The Project would run.
-
-
-
-
-
-

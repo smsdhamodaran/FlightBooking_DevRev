@@ -1,0 +1,31 @@
+Requirements : 
+XAMPP Version 7.4.1
+PHP Version : 7.4
+NodeJS
+Browser : Any ( Preferable Chrome )
+
+Step 1.
+Install XAMPP Version 7.4.1
+https://www.apachefriends.org/blog/new_xampp_20191227.html
+
+Step 2.
+Copy the Entire Folder FlightBooking_DevRev inside the xampp\htdocs directory. 
+
+Step 3.
+Run XAMPP Control Panel and Start Apache and MySQL
+
+Step 4.
+Open MySQL Admin in XAMPP and upload the Database File : devrev_flights
+Only if you add the database file the application would run.
+
+Step 5.
+Open the browser and type http://localhost/FlightBooking_DevRev/
+
+Step 6.
+The Project would run.
+
+
+
+
+
+

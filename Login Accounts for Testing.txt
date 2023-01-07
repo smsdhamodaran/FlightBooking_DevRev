@@ -1,0 +1,12 @@
+Admin :
+
+Username : admin
+Password : Dhamo@123
+
+User:
+
+Username : smsdhamo
+Password : Sms@1234
+
+Alternatively, you can also register for new account and check the platform.
+Only for users, admin must use the given username and password

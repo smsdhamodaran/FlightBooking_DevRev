@@ -1,9 +1,0 @@
-Admin :
-
-Username : admin
-Password : Dhamo@123
-
-User:
-
-Username : smsdhamo
-Password : Sms@1234
